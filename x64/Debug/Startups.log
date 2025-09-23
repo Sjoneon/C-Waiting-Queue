@@ -1,0 +1,7 @@
+﻿  FileIO-call.c
+  main.c
+D:\source\Startups\main.c(15,9): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\source\Startups\main.c(34,13): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\source\Startups\main.c(63,17): warning C4013: 'cancelPhoneNumber'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Startups.vcxproj -> D:\source\Startups\x64\Debug\Startups.exe
