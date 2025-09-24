@@ -1,4 +1,4 @@
-# RAW (Rest And Wait)
+# RAW (Rest And Wait)_언어 학습 목적 프로젝트
 
 **C언어 기반 줄서기 예약 시스템**
 
